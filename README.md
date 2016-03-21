@@ -1,6 +1,6 @@
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cnel/itl-ae)
 
-Test this code without downloading anything with Binder.
+Test this code online with Binder.
 
 # itl-ae
 Information Theoretic Auto-Ecndoer, Eder Santana, Matthew Emigh, Jose C Principe. IJCNN 2016 (accepted)
