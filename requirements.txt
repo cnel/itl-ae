@@ -1,0 +1,3 @@
+git+https://github.com/Theano/Theano.git@260fc9a7af181dde0cd9c8f411b
+git+https://github.com/fchollet/keras.git@52f48e1f462090db19b03ae11dce
+git+https://github.com/EderSantana/seya.git@5ce4211648a24ee5514df70a
