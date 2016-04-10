@@ -14,7 +14,7 @@ Information Theoretic Auto-Ecndoer, Eder Santana, Matthew Emigh, Jose C Principe
 
 ### Notebooks
 `ITL AE best  log-likelihood` and `ITL AE-Swiss Roll` were the ones used to
-generte the results on the paper, the other ones show work in progress not
+generate the results on the paper, the other ones show work in progress not
 published yet that you may find interesting.
 
 ### Torch version
