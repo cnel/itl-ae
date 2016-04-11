@@ -3,7 +3,7 @@
 Test this code online with Binder.
 
 # itl-ae
-Information Theoretic Auto-Encdoer, Eder Santana, Matthew Emigh, Jose C Principe. IJCNN 2016 (accepted)
+Information Theoretic Auto-Encoder, Eder Santana, Matthew Emigh, Jose C Principe. IJCNN 2016 (accepted)
 
 ### Installation
 1. Install an Anaconda environment (recommended).
